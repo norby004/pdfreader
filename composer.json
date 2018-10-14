@@ -1,9 +1,9 @@
 {
     "name": "norby/pdfreader",
     "version": "1.0.0",
-    "minimum-stability": "stable",
     "description": "PDF to string",
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "smalot/pdfparser": "^0.13.2"
     },
