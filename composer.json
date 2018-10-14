@@ -1,0 +1,21 @@
+{
+    "name": "norby/pdfreader",
+    "description": "PDF to string",
+    "type": "library",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {
+        "smalot/pdfparser": "^0.13.2"
+    },
+    "authors": [
+        {
+            "name": "Norby",
+            "email": "norby004@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Norby\\": "src/"
+        }
+    }
+}
